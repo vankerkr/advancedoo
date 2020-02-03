@@ -1,0 +1,14 @@
+C:\Users\vanke\OneDrive - gmatc.matc.edu\School\2nd Semester\ITDEV 115\StartofTriviaGame\StartofTriviaGame\bin\Debug\StartofTriviaGame.exe.config
+C:\Users\vanke\OneDrive - gmatc.matc.edu\School\2nd Semester\ITDEV 115\StartofTriviaGame\StartofTriviaGame\bin\Debug\StartofTriviaGame.exe
+C:\Users\vanke\OneDrive - gmatc.matc.edu\School\2nd Semester\ITDEV 115\StartofTriviaGame\StartofTriviaGame\bin\Debug\StartofTriviaGame.pdb
+C:\Users\vanke\OneDrive - gmatc.matc.edu\School\2nd Semester\ITDEV 115\StartofTriviaGame\StartofTriviaGame\obj\Debug\VankerkvoordeTriviaGame.csprojAssemblyReference.cache
+C:\Users\vanke\OneDrive - gmatc.matc.edu\School\2nd Semester\ITDEV 115\StartofTriviaGame\StartofTriviaGame\obj\Debug\VankerkvoordeTriviaGame.csproj.CoreCompileInputs.cache
+C:\Users\vanke\OneDrive - gmatc.matc.edu\School\2nd Semester\ITDEV 115\StartofTriviaGame\StartofTriviaGame\obj\Debug\StartofTriviaGame.exe
+C:\Users\vanke\OneDrive - gmatc.matc.edu\School\2nd Semester\ITDEV 115\StartofTriviaGame\StartofTriviaGame\obj\Debug\StartofTriviaGame.pdb
+C:\Users\vanke\OneDrive - gmatc.matc.edu\School\2nd Semester\ITDEV 115\VankerkvoordeTrivia\StartofTriviaGame\bin\Debug\StartofTriviaGame.exe.config
+C:\Users\vanke\OneDrive - gmatc.matc.edu\School\2nd Semester\ITDEV 115\VankerkvoordeTrivia\StartofTriviaGame\bin\Debug\StartofTriviaGame.exe
+C:\Users\vanke\OneDrive - gmatc.matc.edu\School\2nd Semester\ITDEV 115\VankerkvoordeTrivia\StartofTriviaGame\bin\Debug\StartofTriviaGame.pdb
+C:\Users\vanke\OneDrive - gmatc.matc.edu\School\2nd Semester\ITDEV 115\VankerkvoordeTrivia\StartofTriviaGame\obj\Debug\VankerkvoordeTriviaGame.csprojAssemblyReference.cache
+C:\Users\vanke\OneDrive - gmatc.matc.edu\School\2nd Semester\ITDEV 115\VankerkvoordeTrivia\StartofTriviaGame\obj\Debug\VankerkvoordeTriviaGame.csproj.CoreCompileInputs.cache
+C:\Users\vanke\OneDrive - gmatc.matc.edu\School\2nd Semester\ITDEV 115\VankerkvoordeTrivia\StartofTriviaGame\obj\Debug\StartofTriviaGame.exe
+C:\Users\vanke\OneDrive - gmatc.matc.edu\School\2nd Semester\ITDEV 115\VankerkvoordeTrivia\StartofTriviaGame\obj\Debug\StartofTriviaGame.pdb

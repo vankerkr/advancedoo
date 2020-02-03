@@ -1,0 +1,20 @@
+C:\Users\ligockij\Desktop\StartofTriviaGame\StartofTriviaGame\bin\Debug\StartofTriviaGame.exe.config
+C:\Users\ligockij\Desktop\StartofTriviaGame\StartofTriviaGame\bin\Debug\StartofTriviaGame.exe
+C:\Users\ligockij\Desktop\StartofTriviaGame\StartofTriviaGame\bin\Debug\StartofTriviaGame.pdb
+C:\Users\ligockij\Desktop\StartofTriviaGame\StartofTriviaGame\obj\Debug\StartofTriviaGame.csprojResolveAssemblyReference.cache
+C:\Users\ligockij\Desktop\StartofTriviaGame\StartofTriviaGame\obj\Debug\StartofTriviaGame.exe
+C:\Users\ligockij\Desktop\StartofTriviaGame\StartofTriviaGame\obj\Debug\StartofTriviaGame.pdb
+C:\Users\vanke\Downloads\StartofTriviaGame\StartofTriviaGame\StartofTriviaGame\bin\Debug\StartofTriviaGame.exe.config
+C:\Users\vanke\Downloads\StartofTriviaGame\StartofTriviaGame\StartofTriviaGame\bin\Debug\StartofTriviaGame.exe
+C:\Users\vanke\Downloads\StartofTriviaGame\StartofTriviaGame\StartofTriviaGame\bin\Debug\StartofTriviaGame.pdb
+C:\Users\vanke\Downloads\StartofTriviaGame\StartofTriviaGame\StartofTriviaGame\obj\Debug\StartofTriviaGame.csprojAssemblyReference.cache
+C:\Users\vanke\Downloads\StartofTriviaGame\StartofTriviaGame\StartofTriviaGame\obj\Debug\StartofTriviaGame.csproj.CoreCompileInputs.cache
+C:\Users\vanke\Downloads\StartofTriviaGame\StartofTriviaGame\StartofTriviaGame\obj\Debug\StartofTriviaGame.exe
+C:\Users\vanke\Downloads\StartofTriviaGame\StartofTriviaGame\StartofTriviaGame\obj\Debug\StartofTriviaGame.pdb
+C:\Users\vanke\OneDrive - gmatc.matc.edu\School\2nd Semester\ITDEV 115\StartofTriviaGame\StartofTriviaGame\obj\Debug\StartofTriviaGame.csprojAssemblyReference.cache
+C:\Users\vanke\OneDrive - gmatc.matc.edu\School\2nd Semester\ITDEV 115\StartofTriviaGame\StartofTriviaGame\obj\Debug\StartofTriviaGame.csproj.CoreCompileInputs.cache
+C:\Users\vanke\OneDrive - gmatc.matc.edu\School\2nd Semester\ITDEV 115\StartofTriviaGame\StartofTriviaGame\obj\Debug\StartofTriviaGame.exe
+C:\Users\vanke\OneDrive - gmatc.matc.edu\School\2nd Semester\ITDEV 115\StartofTriviaGame\StartofTriviaGame\obj\Debug\StartofTriviaGame.pdb
+C:\Users\vanke\OneDrive - gmatc.matc.edu\School\2nd Semester\ITDEV 115\StartofTriviaGame\StartofTriviaGame\bin\Debug\StartofTriviaGame.exe.config
+C:\Users\vanke\OneDrive - gmatc.matc.edu\School\2nd Semester\ITDEV 115\StartofTriviaGame\StartofTriviaGame\bin\Debug\StartofTriviaGame.exe
+C:\Users\vanke\OneDrive - gmatc.matc.edu\School\2nd Semester\ITDEV 115\StartofTriviaGame\StartofTriviaGame\bin\Debug\StartofTriviaGame.pdb
